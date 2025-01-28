@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AliKhaled11
-- 👀 I’m interested in data, ML and AI.
-- 🌱 I’m currently learning programming, data analysis, python, tableau
-- 💞️ I’m looking to collaborate on data analysis projects.
+- 👀 I’m interested in web development and data analysis.
+- 🌱 I’m currently learning JS.
+- 💞️ I’m looking to collaborate on data analysis or web development projects.
 - 📫 How to reach me my email is khaledhod111@gmail.com
 
 <!---
